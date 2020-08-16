@@ -1,3 +1,1 @@
 "hello world"
-
-time.now 
